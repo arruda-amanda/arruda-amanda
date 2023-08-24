@@ -1,5 +1,18 @@
-### Hi there 👋
+# Olá, me chamo Amanda! 
+## Seja bem vindo ao meu perfil GitHub 👋
 
+- 🔭 Atualmente estou fazendo mestrado em Engenharia Agrícola e sou formada em Engenharia Agronômica pela Unesp
+- 🌱 Atualmente estou aprendendo Javascript (back-end) e Python
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+          
+            
+          
+          
+
+          
 <!--
 **arruda-amanda/arruda-amanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
