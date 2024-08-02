@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente estou fazendo mestrado em Engenharia Agrícola e sou formada em Engenharia Agronômica pela Unesp
 - 🌱 Atualmente estou aprendendo Javascript (back-end) e Python
+- Graduanda em Ciência de Dados pela UNIVESP 
 
 ## Ferramentas e Tecnologias
 
